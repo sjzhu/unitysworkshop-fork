@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Unmasked BB';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Unmasked BB'), url('https://fonts.cdnfonts.com/s/55082/UnmaskedBB.woff') format('woff');
+}
+@font-face {
+    font-family: 'Unmasked BB';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Unmasked BB'), url('https://fonts.cdnfonts.com/s/55082/UnmaskedBB_ital.woff') format('woff');
+}
+@font-face {
+    font-family: 'Unmasked BB';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Unmasked BB'), url('https://fonts.cdnfonts.com/s/55082/UnmaskedBB_bold.woff') format('woff');
+}
+
+
