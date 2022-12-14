@@ -185,7 +185,7 @@ let imagesToPreload = [
   ['HP Graphic', '../_resources/HP Graphic.svg'],
   ['Base Hero Card', '../_resources/hero deck card front frame.png'],
   ['Suddenly Hero Card', '../_resources/hero deck card front frame suddenly.png'],
-  ['Suddenly Tag', '../_resources/suddenly tag.png']
+  ['Suddenly Tag', '../_resources/suddenly-tag.png']
 ]
 let loadedGraphics = {};
 imagesToPreload.forEach((image) => {
